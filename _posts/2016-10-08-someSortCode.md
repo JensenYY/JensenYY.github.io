@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "什么是Token"
+title:  "一些简单的排序算法"
 date:   2016-10-08 18:25:01 +0800
 tag: Algorithm
 ---
