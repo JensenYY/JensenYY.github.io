@@ -2,15 +2,8 @@
 layout: post
 title:  IfcPlusPlus入门（一）
 date:   2017-07-12 15:08:00 +0800
-categories: C++
-tag: IFC文件处理
+tag: C++
 ---
- 
-* content
-{:toc}
-
-
-
 
 
 
@@ -23,7 +16,7 @@ Travis CI地址：[https://travis-ci.org/Supporting/ifcplusplus](https://travis-
   然后执行以下命令进行相应环境的安装：
 
 ```bash
-before_install: 
+before_install:
   sudo add-apt-repository -y ppa:kubuntu-ppa/backports
   sudo add-apt-repository -y ppa:ubuntu-toolchain-r/test
   sudo apt-get update -qq

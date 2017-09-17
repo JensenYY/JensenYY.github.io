@@ -2,7 +2,6 @@
 layout: post
 title:  "如何写Makefile(一)"
 date:   2017-08-21 22:50:01 +0800
-categories: Makefile
 tag: Makefile
 ---
 

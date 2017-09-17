@@ -2,14 +2,8 @@
 layout: post
 title:  URL组成
 date:   2017-07-28 19:08:00 +0800
-categories: http
-tag: http
+tag: 后台开发
 ---
- 
-* content
-{:toc}
-
-
 
 
 ### URL组成
