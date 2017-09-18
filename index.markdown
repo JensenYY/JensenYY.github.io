@@ -41,7 +41,7 @@ layout: default
     </section>
     </article>
   {% endfor %}
-  <div class="divider"></div>
+  <div class="divider">
   <ul class="listing main-listing">
     <li class="listing-seperator">Happend earlier this year</li>
   {% capture year %}{{ site.time | date:"%Y"}}{% endcapture %}
