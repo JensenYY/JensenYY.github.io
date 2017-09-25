@@ -2,6 +2,7 @@ markdown: kramdown
 highlighter: pygments
 permalink: /:year/:month/:day/:title.html
 name: "JickYang Tech"
+markdown: kramdown
 
 author: "JickYang"
 atom-baseurl: "http://jickyang.com"
