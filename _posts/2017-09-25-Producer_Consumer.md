@@ -84,7 +84,7 @@ class Producer extends Thread {
 ```
 ### Result
 The above code sample will produce the following result.
-```
+```java
 Producer #1 put: 0
 Consumer #1 got: 0
 Producer #1 put: 1
