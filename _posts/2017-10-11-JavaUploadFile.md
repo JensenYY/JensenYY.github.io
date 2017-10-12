@@ -8,6 +8,7 @@ tag: Java
 
 Java以form表单的形式对指定的api发送POST请求上传文件。实现代码如下：
 >pom文件配置：
+
 ```xml
 <dependency>
 	<groupId>org.apache.httpcomponents</groupId>
@@ -21,6 +22,7 @@ Java以form表单的形式对指定的api发送POST请求上传文件。实现�
 </dependency>
 ```
 >实现：
+
 ```java
 public void sendFile(String fpath, String postUrl) {
 	try {
