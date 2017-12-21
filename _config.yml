@@ -4,7 +4,7 @@ permalink: /:year/:month/:day/:title.html
 name: "JensenYang Tech"
 markdown: kramdown
 
-author: "JickYang"
+author: "JensenYang"
 atom-baseurl: "http://JensenYang.com"
 disqus: "gopherwood"
 
