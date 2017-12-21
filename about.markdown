@@ -9,7 +9,7 @@ a
 
 who involved in
 
-> [github](https://github.com/JickYang)
+> [JensenYang](https://github.com/JensenYY)
 
 mail
 
