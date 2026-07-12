@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Spring AI 使用方式与用途总结"
+date: 2026-07-12 00:00:01 +0800
+tags: [Spring AI, Java, LLM]
+---
+
 # Spring AI 使用方式与用途总结
 
 ---
