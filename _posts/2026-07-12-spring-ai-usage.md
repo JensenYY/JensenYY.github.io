@@ -224,6 +224,7 @@ CommandLineRunner runner(ChatClient.Builder builder, ToolCallbackProvider tools)
 #### 各模式实现细节
 
 **链式工作流（ChainWorkflow）**：
+{% raw %}
 ```java
 // 核心：for 循环迭代系统提示词数组
 public String chain(String userInput) {
@@ -236,6 +237,7 @@ public String chain(String userInput) {
     return response;
 }
 ```
+{% endraw %}
 
 **评估-优化器（EvaluatorOptimizer）**：
 ```java
