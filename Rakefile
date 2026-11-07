@@ -11,7 +11,7 @@ end
 
 desc 'Build site with Jekyll'
 task :generate => [:clean, :scss] do
-  `jekyll`
+  `bundle exec jekyll`
 end
 
 desc 'Generate css'
@@ -21,7 +21,7 @@ end
 
 desc 'Start server'
 task :server => [:clean, :scss] do
-  `jekyll serve -t`
+  `bundle exec jekyll serve -t`
 end
 
 desc 'Deploy with rake "depoly[comment]"'
@@ -41,7 +41,7 @@ end
 def new_post(title)
   time = Time.now
   filename = "_posts/" + time.strftime("%Y-%m-%d-") + title + '.markdown'
-  if File.exists? filename then
+  if File.exist? filename then
     puts "Post already exists: #{filename}"
     return
   end

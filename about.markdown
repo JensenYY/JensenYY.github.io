@@ -1,19 +1,14 @@
 ---
-title: about
+title: About
 layout: page
 ---
 
-a
-
 > Unixer | Coder
 
-who involved in
+GitHub
 
 > [JensenYang](https://github.com/JensenYY)
 
-mail
+Mail
 
 > jensenyang1024#hotmail.com
-
-
-to reach me

@@ -2,10 +2,23 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year/:month/:day/:title.html
 name: "JensenYang Tech"
+timezone: Asia/Shanghai
+url: "https://jensenyy.github.io"
 
 author: "JensenYang"
-atom-baseurl: "http://JensenYang.com"
-disqus: "gopherwood"
+atom-baseurl: "https://jensenyy.github.io"
+description: "JensenYang 的技术博客"
+
+exclude:
+  - .sass-cache
+  - .jekyll-cache
+  - gemfiles
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - Rakefile
+  - README.md
 
 navigations:
   - title: Archive

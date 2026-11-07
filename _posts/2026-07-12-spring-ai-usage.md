@@ -2,6 +2,7 @@
 layout: post
 title: "Spring AI 使用方式与用途总结"
 date: 2026-07-12 00:00:01 +0800
+guid: urn:uuid:c3567b48-4879-4224-8841-567dfe1e28a8
 tags: [Spring AI, Java, LLM]
 ---
 
